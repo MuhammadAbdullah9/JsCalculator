@@ -1,0 +1,49 @@
+body{
+    background-color: darkgray;
+    
+}
+div.main{
+    border: 1px solid black;
+    width: 150px;
+    margin: 0 auto;
+    box-shadow: 3px 3px 2px black;
+}
+#numArea{
+    width: 96.5%;
+    height: 35px;
+    color: black;
+    background-color: #eeeeee;
+    border: 0.5px solid black;
+}
+.f{
+    font-size: 0;
+}
+.half{
+    height: 28px;
+    width: 49.9%;
+    font-size: 9px;
+    background-color: #303f9f;
+    border: 0.5px solid grey;
+    color: white;
+    opacity: 1;
+    cursor: pointer;
+}
+.c{
+    background-color: black !important;
+    opacity: 0.8 !important;
+    color: #eeeeee !important;
+    
+}
+.btn{
+    height: 28px;
+    width: 25%;
+    font-size: 9px;
+    background-color: #303f9f;
+    border: 0.5px solid grey;
+    color: white;
+    opacity: 1;
+    cursor: pointer;
+}
+input{
+    text-align: right;
+}
